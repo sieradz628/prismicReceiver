@@ -1,0 +1,32 @@
+{
+  "name": "prismic-receiver",
+  "version": "1.0.1",
+  "author": { 
+    "name": "sieradz628",
+    "url": "https://jsscope.com"
+  },
+  "license": "ISC",
+  "description": "library supporting communication with PRISMIC in pure NodeJS",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "dotenv": "^8.2.0"
+  },
+  "main": "index.js",
+  "keywords": [
+    "js",
+    "Prismic",
+    "NodeJS",
+    "data-provider"
+  ],
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sieradz628/prismicReceiver.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sieradz628/prismicReceiver/issues"
+  },
+  "homepage": "https://github.com/sieradz628/prismicReceiver#readme"
+}
